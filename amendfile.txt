@@ -1,1 +1,2 @@
 create amend file
+second row of commit without forgettocommit.txt
